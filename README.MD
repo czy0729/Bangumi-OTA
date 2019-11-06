@@ -1,2 +1,0 @@
-# Bangumi-OTA
-
